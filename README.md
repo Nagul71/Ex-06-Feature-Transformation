@@ -150,3 +150,8 @@ plt.show()
 ## QUANTILE TRANSFORMATION
 
 ![output](/14.png)
+
+# RESULT:
+Thus, Feature transformation is performed and executed successfully for the given dataset
+
+
