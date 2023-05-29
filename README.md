@@ -97,59 +97,73 @@ plt.show()
 
 ## DATASET
 
-![output](/1.png)
+![Screenshot 2023-05-29 223847](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/6404fc01-6ffb-4d98-b0d4-d46693e79120)
+
 
 ## ISNULL
 
-![output](/2.png)
+![Screenshot 2023-05-29 223855](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/2cffe03f-9ce9-439e-8c98-ec9f1feef8b1)
+
 
 ## INFO
 
-![output](/3.png)
+![Screenshot 2023-05-29 223901](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/a5297899-9460-430c-b3b4-75e0a76f863a)
+
 
 ## DESCRIBE
 
-![output](/4.png)
+![Screenshot 2023-05-29 223909](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/0c14fdfa-5b8a-4fd7-bdbb-a06a649df6f3)
+
 
 ## HIGHLY POSITIVE SKEW
 
-![output](/5.png)
+![Screenshot 2023-05-29 224544](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/21c287d4-b514-4549-bb72-cf95a8919041)
+
 
 ## HIGHLY NEGATIVE SKEW
 
-![output](/6.png)
+![Screenshot 2023-05-29 224549](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/3ee82cf6-3573-4e83-8671-a516b06d2157)
+
 
 ## MODERATE POSITIVE SKEW
 
-![output](/7.png)
+![Screenshot 2023-05-29 224559](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/c79669db-5a61-421e-b9b6-5945200e445b)
+
 
 ## MODERATE NEGATIVE SKEW
 
-![output](/8.png)
+![Screenshot 2023-05-29 224605](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/79d35dec-ded7-4973-8f15-f137b2d7f903)
+
 
 ## LOG OF MODERATE POSITIVE SKEW:
 
-![output](/9.png)
+![Screenshot 2023-05-29 224615](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/b218222a-1371-46ed-9365-0978065e7834)
+
 
 ## LOG OF HIGHLY POSITIVE SKEW
 
-![output](/10.png)
+![Screenshot 2023-05-29 224621](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/b249a2f7-6689-426f-b89a-adca6776ab95)
+
 
 ## RECIPROCAL OF HIGHLY POSITIVE SKEW
+![Screenshot 2023-05-29 224627](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/3c3a5982-dd52-4ebb-bc79-48d6864e6202)
 
-![output](/11.png)
 
 ## SQUARE ROOT TRANSFORMATION
+![Screenshot 2023-05-29 224640](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/afcc580d-39a0-4719-ae42-3b45969dee5b)
 
-![output](/12.png)
+
 
 ## POWER TRANSFORMATION OF MODERATE NEGATIVE SKEW
 
-![output](/13.png)
+![Screenshot 2023-05-29 224646](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/1ecf944b-b301-4dc1-bb5a-79cc68ce1412)
+
 
 ## QUANTILE TRANSFORMATION
 
-![output](/14.png)
+![Screenshot 2023-05-29 224652](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/c08a4139-feec-48d9-a1f1-aec71f4c1d84)
+![Screenshot 2023-05-29 224658](https://github.com/Nagul71/Ex-06-Feature-Transformation/assets/118661118/758bf4ba-bf71-4e5b-9137-15b333162f51)
+
 
 # RESULT:
 Thus, Feature transformation is performed and executed successfully for the given dataset
